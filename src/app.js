@@ -9,7 +9,7 @@
   Set these to configure Script
 */
 var membershipType = 2; //1 for XBL, 2 for PSN
-var displayName = 'wuliver';
+var displayName = 'scottmacwatters';
 
 
 
